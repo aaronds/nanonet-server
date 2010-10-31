@@ -1,5 +1,11 @@
 Nanonet Server is service for handeling nanonet packets sent from the arduino ethernet shield.
 
+Example configuration file:
+http://github.com/aaronds/nanonet-server/blob/master/config.xml
+
+Example service:
+http://github.com/aaronds/nanonet-server/blob/master/src/main/scala/uk/co/madsie/nanonet/service/Ping.scala
+
 This is a maven project writen in scala.
 
 To complie and test:
