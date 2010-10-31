@@ -1,0 +1,6 @@
+<?xml version = "1.0" ?>
+<nanoNet name = "Test Net" port = "4445" host = "0.0.0.0" addressLength = "5" dataLength = "16" identity = "1.2.3.4.5" timeout = "60000">
+	<host name = "Main Server" address = "10.1.0.0.1">
+		<port name = "Ping" class = "uk.co.madsie.nanonet.service.Ping" number = "1" />
+	</host>
+</nanoNet>

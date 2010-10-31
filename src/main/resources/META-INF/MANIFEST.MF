@@ -1,0 +1,2 @@
+Class-Path: .
+Main-Class: uk.co.madsie.nanonet.server.NanoNet

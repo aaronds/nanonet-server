@@ -1,0 +1,6 @@
+<?xml version = "1.0" ?>
+<root>
+	<Element class = "test.scala.uk.co.madsie.nanonet.util.ChildB" />
+	<Element class = "test.scala.uk.co.madsie.nanonet.util.ChildA" />
+	<Element  />
+</root>

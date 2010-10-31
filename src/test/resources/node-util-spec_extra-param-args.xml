@@ -1,0 +1,5 @@
+<?xml version = "1.0" ?>
+<root>
+	<Element/>
+	<Element class = "test.scala.uk.co.madsie.nanonet.util.ChildC" />
+</root>
