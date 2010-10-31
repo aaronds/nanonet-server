@@ -1,0 +1,11 @@
+Nanonet Server is service for handeling nanonet packets sent from the arduino ethernet shield.
+
+This is a maven project writen in scala.
+
+To complie and test:
+
+> mvn test
+
+Then to run the 'Ping' example
+
+> mvn scala:run
